@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CalculosIndraModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Calculo">
+    <Key>
+      <PropertyRef Name="IdCalculo" />
+    </Key>
+    <Property Name="IdCalculo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Respuesta" Type="int" />
+    <Property Name="Fecha" Type="datetime" />
+    <Property Name="IdUsuario" Type="int" />
+    <Property Name="Limite" Type="int" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="IdUsuario" />
+    </Key>
+    <Property Name="IdUsuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <Association Name="FK__Calculo__IdUsuar__1273C1CD">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="0..1" />
+    <End Role="Calculo" Type="Self.Calculo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="IdUsuario" />
+      </Principal>
+      <Dependent Role="Calculo">
+        <PropertyRef Name="IdUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CalculosIndraModelStoreContainer">
+    <EntitySet Name="Calculo" EntityType="Self.Calculo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Calculo__IdUsuar__1273C1CD" Association="Self.FK__Calculo__IdUsuar__1273C1CD">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Calculo" EntitySet="Calculo" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

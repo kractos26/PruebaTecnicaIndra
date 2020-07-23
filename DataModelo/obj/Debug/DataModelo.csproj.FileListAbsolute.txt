@@ -1,0 +1,15 @@
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\obj\Debug\DataModelo.csprojAssemblyReference.cache
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\obj\Debug\DataModelo.csproj.CoreCompileInputs.cache
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\bin\Debug\DataModelo.dll.config
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\bin\Debug\DataModelo.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\bin\Debug\DataModelo.pdb
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\bin\Debug\DataEntity.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\bin\Debug\EntityFramework.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\bin\Debug\DataEntity.pdb
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\bin\Debug\DataEntity.dll.config
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\bin\Debug\EntityFramework.xml
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\obj\Debug\DataModelo.csproj.CopyComplete
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\obj\Debug\DataModelo.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\DataModelo\obj\Debug\DataModelo.pdb

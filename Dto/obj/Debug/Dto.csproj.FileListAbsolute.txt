@@ -1,0 +1,6 @@
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Dto\bin\Debug\Dto.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Dto\bin\Debug\Dto.pdb
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Dto\obj\Debug\Dto.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Dto\obj\Debug\Dto.pdb
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Dto\obj\Debug\Dto.csprojAssemblyReference.cache

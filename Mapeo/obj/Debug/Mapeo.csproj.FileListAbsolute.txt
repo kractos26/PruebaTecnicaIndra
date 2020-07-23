@@ -1,0 +1,16 @@
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\bin\Debug\Mapeo.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\bin\Debug\Mapeo.pdb
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\bin\Debug\AutoMapper.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\bin\Debug\DataEntity.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\bin\Debug\Dto.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\bin\Debug\EntityFramework.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\bin\Debug\DataEntity.pdb
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\bin\Debug\DataEntity.dll.config
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\bin\Debug\Dto.pdb
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\bin\Debug\AutoMapper.xml
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\bin\Debug\EntityFramework.xml
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\obj\Debug\Mapeo.csprojAssemblyReference.cache
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\obj\Debug\Mapeo.csproj.CoreCompileInputs.cache
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\obj\Debug\Mapeo.csproj.CopyComplete
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\obj\Debug\Mapeo.dll
+C:\Users\57313\source\repos\PruebaTecnicaIndra\Mapeo\obj\Debug\Mapeo.pdb
